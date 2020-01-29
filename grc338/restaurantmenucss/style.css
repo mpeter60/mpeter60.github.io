@@ -1,0 +1,52 @@
+/*CSS Document*/
+
+body {
+    
+    background-color: rgb(255, 229,203);
+}
+
+
+h1{
+    
+    color: rgb(203, 175, 71);
+    font-family: sans-serif;
+    font-size: 4em;
+    text-align: center;
+}
+
+
+h2{
+    
+    color: rgb(203, 175, 71);
+    font-family: sans-serif;
+    font-size: 1.6em;
+    text-align: center;
+    margin-top: 1.3em;
+    
+}
+
+
+h3 {
+    
+    color: rgb(232, 154, 121);
+    font-family: serif;
+    margin: 1em;
+    font-size: 1.4em;
+    padding-top: 1.5em;
+       
+}
+
+
+h4{
+    
+    font-family: serif;
+    margin-bottom: -0;
+    
+}
+
+
+p{
+   margin: auto; 
+   font-family: serif; 
+    
+}
