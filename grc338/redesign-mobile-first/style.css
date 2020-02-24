@@ -1,0 +1,227 @@
+/*CSS Document*/
+
+h1 {
+    text-align: right;
+    color: rgb(166, 47, 32);
+}
+body {
+    
+    background-color: rgb(219, 197, 161);
+    margin: auto;
+    max-width: 80em;
+}
+
+
+div.gennaros {
+    width: 100%; 
+    margin: auto;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.mainmenu a {
+    color: rgb(0, 0 , 0);
+}
+.mainmenu a:hover {
+    color: rgb(166, 47, 32);
+}
+
+.mainmenu ul {
+     list-style-type: none;
+     padding: 1;
+     float: right;
+}
+
+.mainmenu li {
+    float: left;
+    margin-right: 2em;
+    font-family: serif;
+    font-size: 1em;
+}
+
+.container, .maincontent {
+    clear: both;
+}
+
+.container, .wines {
+    clear: both;
+}
+
+.container, .lunchmenu {
+    clear: both;
+}
+
+.container, .dinnermenu {
+    clear: both;
+}
+
+
+.container h1{
+    text-align: center; 
+    font-size: 2.5em; 
+    float:left;
+}
+
+.lunchmenu h3 {
+    text-align: center;
+    font-size: 2em;          
+}
+
+.dinnermenu h3 {
+    text-align: center;
+    margin-top: auto;
+    font-size: 2em;          
+}
+
+.dinnermenu ul {
+   list-style-type: none;      
+}
+
+.lunchmenu ul {
+   list-style-type: none;      
+}
+
+.wines h2 {
+    text-align: center;
+    margin-top: 2em;
+    font-size: 1.7em;
+    
+}
+
+.wines h3 {
+    font-size: 1.4em;
+    margin-top: 1.5em;
+    color: rgb(166, 47, 32);
+}
+
+.wines ul {
+list-style-type: none;  
+}
+
+.info h6 {
+    text-align: center; 
+    font-size: 0.8em;
+}
+
+.maincontent h3 {
+    text-align: center;
+    margin-bottom: auto;
+    font-size: 1.5em;
+}
+
+.maincontent h2 {
+     font-size: 1.1em;
+    
+}
+
+div.fireside {
+    float: left;
+    padding: 0.5em;
+    
+}
+
+div.diningarea {
+    float: left;
+    padding: 1em;
+}
+
+div.sunroom {
+    float: left;
+    padding: 1em;
+}
+
+div.bar {
+    float: left;
+    padding: 1em;
+}
+
+div.patio {
+    float: left;
+    padding: 0.5em;
+}
+
+div.greenroom {
+    float: left;
+    padding: 1em;
+    
+}
+
+h2{
+   text-align: center; 
+   font-family: serif; 
+   font-size: 1.4em; 
+   margin-top: 2.5em;
+}
+
+.hours h3 {
+    font-size: 1.1em;
+}
+
+.location p {
+    line-height: 0.5em;
+}
+
+.location h3 {
+    line-height: 0.5em;
+    margin-top: 2em;
+    font-size: 1.2em;
+    color: rgb(134, 107, 18);
+    font-style: oblique;
+}
+
+.hours p {
+    line-height: 0.5em;
+}
+
+.hours h3{
+    font-size: 1.2em;
+    line-height: 1em;
+    margin-top: 2em;
+    color: rgb(134, 107, 18);
+    font-style: oblique;
+}
+
+.hours h4{
+    font-size: 1em;
+    margin-bottom: auto;
+    
+}
+
+.information h3{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+ .reservations h3 {
+    line-height: 0.5em;
+    margin-top: 2em;
+    font-size: 1.2em; 
+    color: rgb(134, 107, 18);
+    font-style: oblique;
+}
+
+.reservations p {
+    line-height: 0.2em;
+}
+
+footer {
+    
+    padding-left: 20px; 
+    padding-top: 4em;
+    font-family: sans-serif;
+    font-size: 0.9em;
+}
+
+.homepage p{
+    font-family: serif;
+    
+}
+
+.homepage h3{
+    font-family: serif;
+    
+}
+
