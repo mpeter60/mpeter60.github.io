@@ -1,8 +1,12 @@
 /*CSS Document*/
 
 h1 {
+    font-family: 'Crimson Text', cursive;
     text-align: right;
     color: rgb(166, 47, 32);
+    margin-bottom: 0.5em;
+    padding: 0.7em;
+    
 }
 body {
     
@@ -38,7 +42,7 @@ a {
 .mainmenu li {
     float: left;
     margin-right: 2em;
-    font-family: serif;
+    font-family: 'Crimson Text', serif;
     font-size: 1em;
 }
 
@@ -67,8 +71,18 @@ a {
 
 .lunchmenu h3 {
     text-align: center;
-    font-size: 2em;          
+    font-size: 2em; 
+    font-family: serif;
+    margin-bottom: 2em;
+    margin-top: 3em;
 }
+
+.lunchmenu h4{
+    
+    font-family: serif; 
+    
+}
+
 
 .dinnermenu h3 {
     text-align: center;
@@ -77,11 +91,15 @@ a {
 }
 
 .dinnermenu ul {
-   list-style-type: none;      
+   list-style-type: none; 
+   margin-bottom: 0.5em;
+   padding: 0.8em;
 }
 
 .lunchmenu ul {
-   list-style-type: none;      
+   list-style-type: none; 
+   margin-bottom: 0.5em;
+   padding: 0.7em;
 }
 
 .wines h2 {
@@ -93,65 +111,67 @@ a {
 
 .wines h3 {
     font-size: 1.4em;
-    margin-top: 1.5em;
+    margin-bottom: 0.2em;
     color: rgb(166, 47, 32);
+    padding: 0.8em;
 }
 
 .wines ul {
-list-style-type: none;  
+list-style-type: none; 
+line-height: 0.9em;
 }
 
-.info h6 {
+.footer h6 {
     text-align: center; 
     font-size: 0.8em;
 }
 
 .maincontent h3 {
     text-align: center;
-    margin-bottom: auto;
+    padding: 1em;
     font-size: 1.5em;
 }
 
 .maincontent h2 {
-     font-size: 1.1em;
+     font-size: 1em;
     
 }
 
 div.fireside {
     float: left;
-    padding: 0.5em;
+    padding: 2em;
     
 }
 
 div.diningarea {
     float: left;
-    padding: 1em;
+    padding: 2em;
 }
 
 div.sunroom {
     float: left;
-    padding: 1em;
+    padding: 2em;
 }
 
 div.bar {
     float: left;
-    padding: 1em;
+    padding: 2em;
 }
 
 div.patio {
     float: left;
-    padding: 0.5em;
+    padding: 2em;
 }
 
 div.greenroom {
     float: left;
-    padding: 1em;
+    padding: 2em;
     
 }
 
 h2{
    text-align: center; 
-   font-family: serif; 
+   font-family: 'Crimson Text', serif;
    font-size: 1.4em; 
    margin-top: 2.5em;
 }
@@ -161,7 +181,9 @@ h2{
 }
 
 .location p {
-    line-height: 0.5em;
+    line-height: 0em;
+    margin-bottom: 0.2em;
+    padding: 0.5em;
 }
 
 .location h3 {
@@ -170,10 +192,13 @@ h2{
     font-size: 1.2em;
     color: rgb(134, 107, 18);
     font-style: oblique;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
 }
 
 .hours p {
-    line-height: 0.5em;
+    line-height: 0em;
+    padding: 0.5em;
 }
 
 .hours h3{
@@ -182,11 +207,17 @@ h2{
     margin-top: 2em;
     color: rgb(134, 107, 18);
     font-style: oblique;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
 }
 
 .hours h4{
     font-size: 1em;
     margin-bottom: auto;
+    font-family: 'Open Sans',;
+    line-height: 0em;
+    padding: 0.5em;
+}
     
 }
 
@@ -201,27 +232,35 @@ h2{
     font-size: 1.2em; 
     color: rgb(134, 107, 18);
     font-style: oblique;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
 }
 
 .reservations p {
-    line-height: 0.2em;
+    line-height: 1.3em;
+    font-family: serif;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
 }
 
 footer {
     
-    padding-left: 20px; 
+    padding-left: 0em; 
     padding-top: 4em;
-    font-family: sans-serif;
-    font-size: 0.9em;
+    font-family: 'Crimson Text', oblique;
+    font-size: 1em;
 }
 
 .homepage p{
-    font-family: serif;
-    
+    font-family:'Crimson Text', serif;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
 }
 
 .homepage h3{
-    font-family: serif;
+    font-family: 'Crimson Text', sans-serif;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
     
 }
 
