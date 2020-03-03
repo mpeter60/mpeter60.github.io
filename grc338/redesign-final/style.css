@@ -1,0 +1,350 @@
+/*CSS Document*/
+
+h1 {
+    font-family: 'Crimson Text', cursive;
+    text-align: right;
+    color: rgb(166, 47, 32);
+    margin-bottom: 0.4em;
+    padding: 0.3em;
+    
+}
+body {
+    
+    background-color: rgb(219, 197, 161);
+    margin: auto;
+    max-width: 80em;
+}
+
+
+div.gennaros {
+    width: 100%; 
+    margin: auto;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.mainmenu a {
+    color: rgb(0, 0 , 0);
+}
+.mainmenu a:hover {
+    color: rgb(166, 47, 32);
+}
+
+.mainmenu ul {
+     list-style-type: none;
+     padding: 1;
+     float: right;
+}
+
+.mainmenu li {
+    float: left;
+    margin-right: 2em;
+    font-family: 'Crimson Text', serif;
+    font-size: 1em;
+}
+
+.container, .maincontent {
+    clear: both;
+}
+
+.container, .wines {
+    clear: both;
+}
+
+.container, .lunchmenu {
+    clear: both;
+}
+
+.container, .dinnermenu {
+    clear: both;
+}
+
+
+.container h1{
+    text-align: center; 
+    font-size: 2.5em; 
+    float:left;
+}
+
+.lunchmenu h3 {
+    text-align: center;
+    font-size: 2em; 
+    font-family: serif;
+    margin-bottom: 2em;
+    margin-top: 3em;
+}
+
+.lunchmenu h4{
+    
+    font-family: serif; 
+    
+}
+
+
+.dinnermenu h3 {
+    text-align: center;
+    margin-top: auto;
+    font-size: 2em;          
+}
+
+.dinnermenu ul {
+   list-style-type: none; 
+   margin-bottom: 0.5em;
+   padding: 0.8em;
+}
+
+.lunchmenu ul {
+   list-style-type: none; 
+   margin-bottom: 0.5em;
+   padding: 0.7em;
+}
+
+.wines h2 {
+    text-align: center;
+    margin-top: 2em;
+    font-size: 1.7em;
+    
+}
+
+.wines h3 {
+    font-size: 1.4em;
+    margin-bottom: 0.2em;
+    color: rgb(166, 47, 32);
+    padding: 0.8em;
+}
+
+.wines ul {
+list-style-type: none; 
+line-height: 0.9em;
+}
+
+.footer h6 {
+    text-align: center; 
+    font-size: 0.8em;
+}
+
+.maincontent h3 {
+    text-align: center;
+    padding: 1em;
+    font-size: 1.5em;
+}
+
+.maincontent h2 {
+     font-size: 1em;
+    
+}
+
+div.fireside {
+    float: left;
+    margin-bottom: 0.5em;
+    margin: 0.5em;
+    padding-left: 0em;
+    
+}
+
+div.diningarea {
+    float: left;
+    padding: 0.2em;
+    margin: 0em;
+    
+}
+
+div.sunroom {
+    float: left;
+    margin: 0em;
+    padding: 0.2em;
+}
+
+div.bar {
+    float: left;
+    margin: 0.5em;
+    padding: 0.2em;
+    margin-right: 3.3em;
+}
+
+div.patio {
+    float: left;
+    margin-left: -3em;
+}
+
+div.greenroom {
+    float: left;
+    margin: 0.5em;
+    padding: 0.2em;
+
+    
+}
+
+h2{
+   text-align: center; 
+   font-family: 'Crimson Text', serif;
+   font-size: 1.4em; 
+   margin-top: 2.5em;
+}
+
+.hours h3 {
+    font-size: 1.1em;
+}
+
+.location p {
+    line-height: 0em;
+    margin-bottom: 0.2em;
+    padding: 0.5em;
+}
+
+.location h3 {
+    line-height: 0.5em;
+    margin-top: 2em;
+    font-size: 1.2em;
+    color: rgb(134, 107, 18);
+    font-style: oblique;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+}
+
+.hours p {
+    line-height: 0em;
+    padding: 0.5em;
+}
+
+.hours h3{
+    font-size: 1.2em;
+    line-height: 1em;
+    margin-top: 2em;
+    color: rgb(134, 107, 18);
+    font-style: oblique;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+}
+
+.hours h4{
+    font-size: 1em;
+    margin-bottom: auto;
+    font-family: 'Open Sans',;
+    line-height: 0em;
+    padding: 0.5em;
+}
+    
+}
+
+.information h3{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+ .reservations h3 {
+    line-height: 0.5em;
+    margin-top: 2em;
+    font-size: 1.2em; 
+    color: rgb(134, 107, 18);
+    font-style: oblique;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+}
+
+.reservations p {
+    line-height: 1.3em;
+    font-family: serif;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+}
+
+footer {
+    
+    padding-left: 4em; 
+    padding-top: 4em;
+    font-family: 'Crimson Text', oblique;
+    font-size: 1em;
+}
+
+.homepage p{
+    font-family:'Crimson Text', serif;
+    padding: 0.5em;
+}
+
+.homepage h3{
+    font-family: 'Crimson Text', sans-serif;
+    padding: 0.2em;
+    
+}
+
+
+
+div.homepage {
+    max-width: 80em;
+}
+
+
+@media only screen and (min-width: 80em) {
+    div.homepage {
+          width: 100%;
+          float: left;
+        
+    }
+    
+}
+
+div.location {
+    max-width: 70em;
+}
+
+
+@media only screen and (min-width: 70em) {
+    div.location {
+          width: 100%;
+          float: left;
+        
+    }
+    
+}
+
+div.hours {
+    max-width: 70em;
+}
+
+
+@media only screen and (min-width: 70em) {
+    div.hours {
+          width: 100%;
+          float: left;
+        
+    }
+    
+}
+
+
+div.footer {
+    max-width: 70em;
+}
+
+
+@media only screen and (min-width: 70em) {
+    div.footer {
+          width: 100%;
+          float: left;
+        
+    }
+    
+}
+
+
+div.reservations {
+    max-width: 70em;
+}
+
+
+@media only screen and (min-width: 30em) {
+    div.reservations{
+          width: 90%;
+          float: left;
+        
+    }
+    
+}
+
+
+
+
